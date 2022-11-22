@@ -5,7 +5,7 @@ A simple aimbot written in python for Ice Station Z 2021 on PC/Steam.
 - None really. It's just a really simple aimbot.
 
 # Download:
-- Newest [Version v1.2]
+- Newest [Version v1.2](https://github.com/Cracko298/Ice-Station-Z-Aimbot/releases/download/v0.1.2-alpha-1/NEWEST-AIMBOT-VERSION-v12.zip)
 - Legacy [Version v0.9](https://github.com/Cracko298/Ice-Station-Z-Aimbot/releases/download/v0.1.2-alpha-1/LEGACY-AIMBOT-VERSION-v09.zip)
 - Legacy [Version v0.6](https://github.com/Cracko298/Ice-Station-Z-Aimbot/releases/download/v0.6.0-alpha-1/NEWEST-AIMBOT-VERSION.zip)
 - Legacy [Version v0.3](https://github.com/Cracko298/Ice-Station-Z-Aimbot/releases/download/v0.6.0-alpha-1/LEGACY-AIMBOT-VERSION.zip)
